@@ -67,12 +67,13 @@
   ```
   我要用**MarkDown**做程式相關的筆記
   ```
+  我要用**MarkDown**做程式相關的筆記
 英文的表示法，不需要再字與字之間加空格了，直接打星星<br>
 例如：
   ```
   I like**MarkDown**so so much~~
   ```
-  
+  I like**MarkDown**so so much~~
 
 
   
