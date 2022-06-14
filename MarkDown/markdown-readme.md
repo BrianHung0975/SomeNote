@@ -3,6 +3,7 @@
 下次請從 圖片 開始<BR>
 記得 列表 未完成ㄛ <BR>
 還有還有，下次要加數字編號
+(https://www.markdownguide.org/basic-syntax/#horizontal-rules)
 
 基本語法
 =======
