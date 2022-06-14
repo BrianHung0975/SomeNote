@@ -5,3 +5,6 @@ This is a place I record my coding note. Most of them are Python. Maybe some day
 持續更新中....
 
 First, [GitHub Docs](https://docs.github.com/cn) will tell you how to write Markdown.
+
+
+## [MarkDown Note](https://github.com/BrianHung0975/SomeNote/tree/main/MarkDown)
