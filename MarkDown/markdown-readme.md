@@ -6,7 +6,7 @@
 | 元素 | 語法 | 實例 |
 | 標題 | `#``\``##` | # H1
 
-| Syntax | Description |
+| 元素 | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
