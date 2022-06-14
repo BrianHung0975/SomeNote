@@ -98,15 +98,20 @@
   ```
   
   
-** 引用
+## 引用
 
-在句子加一個`>`<br>
+在句子加一個`>`，為了美觀 > 和句子間請加一個空格<br>
 例如：
   ```
-  >Knowledge is Power.
+  > Knowledge is Power.
   ```
->Knowledge is Power.
+> Dorothy followed her through many of the beautiful rooms in her castle.
+>
+> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+
   
+> Dorothy followed her through many of the beautiful rooms in her castle.
+> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
   
   
   
