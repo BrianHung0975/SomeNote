@@ -204,6 +204,7 @@
   ```
 
 #### 連結標題
+  
 在連結後打上標題，再用` `` `把標題框起來<BR>
 例如：
   ```
@@ -228,6 +229,9 @@
   *[斜體](https://github.com/BrianHung0975/SomeNote/blob/main/Markdown/markdown_readme.md#%E6%96%9C%E9%AB%94)*
   ```
     
+#### 導向文件某處
+    
+[基本語法](#基本語法)
     
     
   
