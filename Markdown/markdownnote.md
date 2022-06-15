@@ -286,11 +286,11 @@
     
 跟連結很像<BR>
 `![圖片描述](圖片連結 "連結標題")`(半形驚嘆號)<BR>
+注意：圖片網址太常**不能像連結一樣把()移到下一行**
 例如：
   ```
-  ![SomeNote](Markdown/assets/images/somenote.png)
+  ![SomeNote](https://github.com/BrianHung0975/SomeNote/blob/main/Markdown/assets/images/somenote.png)
   ```
-![SomeNote](/assets/images/somenote.png)
     
 #### 圖片式連結
  
@@ -376,12 +376,44 @@
   ```
     
 #### 添加圖片
+    
+例如：
+  ```
+  - 下面是SomeNote的圖片
+    
+    ![SomeNote](https://github.com/BrianHung0975/SomeNote/blob/main/Markdown/assets/images/somenote.png "SomeNote")
+    
+  - 上面是SomeNote的圖片
+  ```
   
+ #### 添加列表
+    
+ 無序中加有序，有序中加無序<BR>
+ 注意：因願原本就需縮排，所以`需縮兩次排`<BR>
+ 例如：
+   - 下面程式方塊只有第二個 1 會被自動轉成其他符號
+   ```
+   1. 第一項
+       - 第一之一項
+           1. 第一之一之一項
+   2. 第二項
+   ```
+   - 下面程式方塊的二個 1 都會被自動轉成其他符號
+   ```
+   - 第一項
+       1. 第一之一項
+           1. 第一之一之一項
+   - 第二項
+   ```
   
-  
-  
-  
-  
+    
+    
+    
+    
+    
+    
+    
+    
   
   
   
