@@ -5,6 +5,8 @@
 還有還有，下次要加數字編號
 (https://www.markdownguide.org/basic-syntax/#horizontal-rules)
 
+-----
+  
 基本語法
 =======
 
@@ -45,6 +47,7 @@
   -------
   ```
   
+-----
   
 ## 段落
   
@@ -56,6 +59,7 @@
   我想，我未來會常常使用它
   ```
   
+-----
 
 ## 換行
   
@@ -66,6 +70,7 @@
   所以我的筆記將會用.md來製作
   ```
   
+-----
   
 ## 強調
   
@@ -110,6 +115,7 @@
   我要用***Markdown***做程式相關的筆記
   ```
   
+-----
   
 ## 引用
 
@@ -146,7 +152,8 @@
   
   應該不會奇怪吧
   ```
-  
+ 
+-----
   
 ## 程式碼
 
@@ -171,6 +178,7 @@
     就那麼簡單
   ```
   
+-----
 
 ## 水平分割線
   
@@ -184,17 +192,45 @@
   
   下一段的開頭
   ```
-  上一段的結尾
   
-  -----------
+-----
   
-  下一段的開頭
+## 連結
   
+`[想表達的](連結網址)`
+例如：
+  ```
+  這是我的程式筆記[SomeNote](https://github.com/BrianHung0975/SomeNote)
+  ```
+
+#### 連結標題
   
+在連結後打上標題，再用` `` `把標題框起來<BR>
+例如：
+  ```
+  這是我的程式筆記[SomeNote](https://github.com/BrianHung0975/SomeNote"我的程式筆記")
+  ```
   
+#### 直接顯示連結或電子郵件連結
   
-  
-  
+將連結或電子郵件連結**前後**加上`<>`<BR>
+例如：
+  ```
+  <https://github.com/BrianHung0975/SomeNote>
+  <brianhung0975@gmail.com>
+  ```
+    
+#### 強調連結
+    
+在**[)**前後都加上星星<BR>
+例如：
+  ```
+  **[粗體](https://github.com/BrianHung0975/SomeNote/blob/main/Markdown/markdown_readme.md#%E7%B2%97%E9%AB%94)**
+  *[斜體](https://github.com/BrianHung0975/SomeNote/blob/main/Markdown/markdown_readme.md#%E6%96%9C%E9%AB%94)*
+  ```
+    
+    
+    
   
   
   
