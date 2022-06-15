@@ -222,7 +222,7 @@
     
 #### 強調連結
     
-在**[)**前後都加上星星<BR>
+在`[)`前後都加上星星<BR>
 例如：
   ```
   **[粗體](https://github.com/BrianHung0975/SomeNote/blob/main/Markdown/markdown_readme.md#%E7%B2%97%E9%AB%94)**
@@ -231,7 +231,7 @@
     
 #### 導向文件某處
     
-[基本語法](#基本語法)
+[基本語法](# 基本語法)
     
     
   
