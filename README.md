@@ -5,4 +5,4 @@ This is a place I record my coding note. Most of them are Python. Maybe some day
 持續更新中....
 
 
-## [Markdown Note](https://github.com/BrianHung0975/SomeNote/blob/main/Markdown/markdown_readme.md)
+## [Markdown Note](Markdown/markdownnote.md)
