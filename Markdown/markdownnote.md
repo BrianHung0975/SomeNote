@@ -288,8 +288,9 @@
 `![圖片描述](圖片連結 "連結標題")`(半形驚嘆號)<BR>
 例如：
   ```
-  ![SomeNote](https://img.onl/5ipYKF "SomeNote")
+  ![SomeNote](Markdown/assets/images/somenote.png)
   ```
+![SomeNote](/assets/images/somenote.png)
     
 #### 圖片式連結
  
