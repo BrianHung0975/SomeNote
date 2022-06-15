@@ -202,15 +202,21 @@
   ```
   這是我的程式筆記[SomeNote](https://github.com/BrianHung0975/SomeNote)
   ```
-
+注意：連結太長時，可將**()**移到下一行<BR>
+例如：
+  ```
+  [SomeNote]
+  (https://github.com/BrianHung0975/SomeNote)
+  ```
+  
 #### 連結標題
   
 在連結後打上標題，再用` `` `把標題框起來<BR>
 例如：
   ```
-  這是我的程式筆記[SomeNote](https://github.com/BrianHung0975/SomeNote"我的程式筆記")
+  這是我的程式筆記[SomeNote](https://github.com/BrianHung0975/SomeNote "我的程式筆記")
   ```
-  
+ 
 #### 直接顯示連結或電子郵件連結
   
 將連結或電子郵件連結**前後**加上`<>`<BR>
@@ -232,7 +238,7 @@
 #### 導向文件某處
     
 `[想顯示的](#標題名稱)`<BR>
-注意：**#與文字間不需要空格**<BR>
+注意：**#與文字間不要空格**<BR>
 例如：
   ```
   [基本語法](#基本語法)
@@ -248,15 +254,56 @@
   [基本語法][1]
   ```
     
-###### 第二部分
+##### 第二部分
     
 可以放在此文件中的任何地方<BR>
-`[相同的數字、字母、空格、符號]` `: `連結網址 `"` `'` `(`標題`)` `'` `"`
+`[相同的數字、字母、空格、符號]` `: ` `<` ` `連結網址` ` `>` `"` `'` `(`標題`)` `'` `"`<BR>
+1. []後緊接`: `**(半形冒號和空格)**
+2. 連結網址可**直接寫出來**或**用`<>`包住**
+3. 連結標題可用`" "`、`'`、`()`包住
+   - **網址與標題需空一格**<BR>
+例如：
+  ```
+  [1]: https://www.markdownguide.org/basic-syntax/#reference-style-links
+  [1]: <https://www.markdownguide.org/basic-syntax/#reference-style-links>
+  [1]: https://www.markdownguide.org/basic-syntax/#reference-style-links "基本語法"
+  [1]: https://www.markdownguide.org/basic-syntax/#reference-style-links '基本語法'
+  [1]: https://www.markdownguide.org/basic-syntax/#reference-style-links (基本語法)
+  ```
+   
+##### 連結的樣子
+    
+如果連結中有空格可以將空格用`%20`代替，若Markdown應用**支援HTML**可用`.`代替<BR>
+例如：
+  ```
+  https://github.com/BrianHung0975/SomeNote/markdown%20note
+  https://github.com/BrianHung0975/SomeNote/markdown.note
+  ```
+    
+-----
+    
+## 圖片
+    
+跟連結很像<BR>
+`！[圖片描述](圖片連結 "連結標題")`<BR>
+例如：
+  ```
+  ！[SomeNote](https://img.onl/5ipYKF "SomeNote")
+  ```
+！[SomeNote](https://img.onl/5ipYKF "SomeNote")
+    
+#### 圖片式連結
+ 
+`[！[圖片描述](圖片連結 "連結標題")]` `(`連結網址`)`<BR>
+簡單來說，就是把圖片當成`[想表達的](連結網址)`中的 **[想表達的]**
+例如：
+  ```
+  [！[SomeNote](https://img.onl/5ipYKF "SomeNote")](https://github.com/BrianHung0975/SomeNote)
+  ```
+[！[SomeNote](https://img.onl/5ipYKF "SomeNote")](https://github.com/BrianHung0975/SomeNote)
     
     
-  
-  
-  
+    
 ## 列表
   
 包含，有序列表和無序列表
