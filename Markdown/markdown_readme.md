@@ -285,24 +285,22 @@
 ## 圖片
     
 跟連結很像<BR>
-`！[圖片描述](圖片連結 "連結標題")`<BR>
+`![圖片描述](圖片連結 "連結標題")`(半形驚嘆號)<BR>
 例如：
   ```
-  ！[SomeNote](https://img.onl/5ipYKF "SomeNote")
+  ![SomeNote](https://img.onl/5ipYKF "SomeNote")
   ```
-！[SomeNote](https://img.onl/5ipYKF "SomeNote")
     
 #### 圖片式連結
  
-`[！[圖片描述](圖片連結 "連結標題")]` `(`連結網址`)`<BR>
+`[![圖片描述](圖片連結 "連結標題")]` `(`連結網址`)`<BR>
 簡單來說，就是把圖片當成`[想表達的](連結網址)`中的 **[想表達的]**
 例如：
   ```
-  [！[SomeNote](https://img.onl/5ipYKF "SomeNote")](https://github.com/BrianHung0975/SomeNote)
+  [![SomeNote](https://img.onl/5ipYKF "SomeNote")](https://github.com/BrianHung0975/SomeNote)
   ```
-[！[SomeNote](https://img.onl/5ipYKF "SomeNote")](https://github.com/BrianHung0975/SomeNote)
-    
-    
+
+-----
     
 ## 列表
   
@@ -364,7 +362,19 @@
   
 #### 添加程式方塊
   
-  
+因為原本就要縮一次排了，所以再添加程式方塊時，需要縮兩次排，但不知道為什麼這個方式在GitHub不能用，所以我就改成用在[進階語法]()中的程式方塊了<BR>
+例如：
+  ```
+  + 第一項
+    + 第一之一項
+  + 第二項
+    ```
+    print("Hello Warkdown and Python")
+    ```
+  + 第三項
+  ```
+    
+#### 添加圖片
   
   
   
