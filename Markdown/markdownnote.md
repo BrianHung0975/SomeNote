@@ -199,7 +199,7 @@
   ```
   這是我的程式筆記[SomeNote](https://github.com/BrianHung0975/SomeNote)
   ```
-注意：連結太長時，可將**()**移到下一行<BR>
+注意：連結太長時，可將 **( )** 移到下一行<BR>
 例如：
   ```
   [SomeNote]
