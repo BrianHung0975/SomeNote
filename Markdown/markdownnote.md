@@ -1,6 +1,6 @@
 這裡是**Markown**的學習筆記區！！<BR>
 未完成....<BR>
-下次請從 轉義字符 開始<BR>
+下次請從 HTML 開始<BR>
 (https://www.markdownguide.org/basic-syntax/#horizontal-rules)
 
 -----
