@@ -1,7 +1,5 @@
 這裡是**Markown**的學習筆記區！！<BR>
-未完成....<BR>
-下次請從 HTML 開始<BR>
-(https://www.markdownguide.org/basic-syntax/#horizontal-rules)
+  
 
 -----
 -----
@@ -594,3 +592,9 @@ X^2^
 `https://emojipedia.org/`
 ```
 
+-----
+-----
+    
+參考：<BR>
+https://www.markdownguide.org/basic-syntax/ <BR>
+https://www.markdownguide.org/extended-syntax/
