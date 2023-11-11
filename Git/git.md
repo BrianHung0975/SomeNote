@@ -27,8 +27,14 @@
 ```
 git push -u origin main
 ```
-這養以後就只需要打'git push'即可
+這樣以後就只需要打`git push`即可
 
+### 6. git add + commit
+同時執行`git add .`和`git commit -m "title"`可用
+```
+git commit -am "title" -m "description"
+```
++ -am：add ＋message
 
 
 
