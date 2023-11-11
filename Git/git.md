@@ -24,9 +24,9 @@
 ### 5. git push origin main
 將本地資料上傳至github<br>
 每次push都要打這麼多字會非常的累，所以可以用
-    '''
-    git push -u origin main
-    '''
+```
+git push -u origin main
+```
 這養以後就只需要打'git push'即可
 
 
