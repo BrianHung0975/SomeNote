@@ -1,0 +1,3 @@
+[submodule "SomeNote"]
+	path = SomeNote
+	url = git@github.com:BrianHung0975/SomeNote.git
