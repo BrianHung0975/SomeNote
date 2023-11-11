@@ -6,3 +6,5 @@ This is a place I record my coding note. Most of them are Python. Maybe some day
 
 
 ## [Markdown Note](Markdown/markdownnote.md)
+
+## [Git Note](Git/git.md)
