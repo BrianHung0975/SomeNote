@@ -13,7 +13,7 @@ add -> commit -> push
 Workflow at gitbub<br>
 commit
 
-
+git add . -> git commit -> git push origin HEAD:main
 
 
 
